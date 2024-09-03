@@ -1,0 +1,19 @@
+# Awesome Livebook
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+<%= @description %>
+
+## Table of Contents
+
+<%= for {section_name, _items} <- @sections do %>
+- [<%= section_name %>](#<%= String.downcase(section_name) %>)
+<% end %>
+
+<%= for {section_name, items} <- @sections do %>
+## <%= section_name %>
+
+<%= for item <- items do %>
+- **[<%= item["name"] %>](<%= item["url"] %>)**<%= if Map.has_key?(item, "description") do %> - <%= item["description"] %><% end %> <%= if Map.has_key?(item, "tags") and item["tags"] != [] do %> - _Tags: <%= Enum.join(item["tags"], ", ") %>_<% end %> <%= if Map.has_key?(item, "type") do %><%= if item["type"] == "official" do %> ![Official](https://img.shields.io/badge/Official-blue) <% else %> ![Community](https://img.shields.io/badge/Community-green) <% end %><% end %>
+<% end %>
+<% end %>

@@ -1,0 +1,264 @@
+{
+    "description": "An Awesome List about awesome [Livebook](https://livebook.dev/) related things.",
+    "sections": [
+        {
+            "name": "SmartCells",
+            "content": [
+                {
+                    "name": "Bumblebee",
+                    "tags": [
+                        "Machine Learning"
+                    ],
+                    "url": "https://github.com/livebook-dev/kino_bumblebee/"
+                },
+                {
+                    "name": "Benchee",
+                    "tags": [
+                        "Dev Tools"
+                    ],
+                    "url": "https://github.com/livebook-dev/kino_benchee"
+                },
+                {
+                    "name": "Chart",
+                    "tags": [
+                        "Visualization"
+                    ],
+                    "url": "https://github.com/livebook-dev/kino_vega_lite"
+                },
+                {
+                    "name": "Copilot",
+                    "tags": [
+                        "Dev Tools",
+                        "Machine Learning"
+                    ],
+                    "url": "https://github.com/thmsmlr/kino_copilot"
+                },
+                {
+                    "name": "Database Connection",
+                    "tags": [],
+                    "url": "https://github.com/livebook-dev/kino_db"
+                },
+                {
+                    "name": "Evision",
+                    "tags": [
+                        "Machine Learning",
+                        "Visualization",
+                        "Multimedia"
+                    ],
+                    "url": "https://github.com/cocoa-xu/evision"
+                },
+                {
+                    "name": "ExDuck",
+                    "url": "https://github.com/sdball/ex_duck_smart_cell",
+                    "tags": []
+                },
+                {
+                    "name": "Explorer",
+                    "url": "https://github.com/livebook-dev/kino_explorer",
+                    "tags": [
+                        "Data",
+                        "Visualization"
+                    ]
+                },
+                {
+                    "name": "FLAME",
+                    "tags": [
+                        "Networking",
+                        "Deployment",
+                        "Orchestration"
+                    ],
+                    "url": "https://github.com/livebook-dev/kino_flame"
+                },
+                {
+                    "name": "GenEditor",
+                    "url": "https://github.com/beltranaceves/gen_editor",
+                    "tags": [
+                        "Phoenix"
+                    ]
+                },
+                {
+                    "name": "K8s",
+                    "tags": [
+                        "Deployment",
+                        "Networking",
+                        "Orchestration"
+                    ],
+                    "url": "https://github.com/mruoss/kino_k8s"
+                },
+                {
+                    "name": "Kroki",
+                    "tags": [
+                        "Visualization"
+                    ],
+                    "url": "https://github.com/zorbash/kino_kroki"
+                },
+                {
+                    "name": "Map",
+                    "tags": [
+                        "Visualization"
+                    ],
+                    "url": "https://github.com/livebook-dev/kino_maplibre"
+                },
+                {
+                    "name": "Merquery",
+                    "tags": [
+                        "Dev Tools"
+                    ],
+                    "url": "https://github.com/acalejos/merquery"
+                },
+                {
+                    "name": "SheetEx",
+                    "url": "https://github.com/malinowskip/kino_sheetex",
+                    "tags": [
+                        "Data"
+                    ]
+                },
+                {
+                    "name": "Shell Script",
+                    "url": "https://github.com/thmsmlr/kino_shell",
+                    "tags": []
+                },
+                {
+                    "name": "Discord",
+                    "url": "https://github.com/basilenouvellet/kino_discord",
+                    "tags": [
+                        "Communication"
+                    ]
+                },
+                {
+                    "name": "Slack",
+                    "url": "https://github.com/livebook-dev/kino_slack",
+                    "tags": [
+                        "Communication"
+                    ]
+                },
+                {
+                    "name": "XKCD",
+                    "tags": [],
+                    "url": "https://github.com/sdball/smart_cells_by_sdball"
+                }
+            ]
+        },
+        {
+            "name": "Kinos",
+            "content": [
+                {
+                    "name": "KinoLiveAudio",
+                    "tags": [
+                        "Audio"
+                    ],
+                    "url": "https://github.com/acalejos/kino_live_audio"
+                },
+                {
+                    "name": "KinoProgressBar",
+                    "tags": [
+                        "UI"
+                    ],
+                    "url": "https://github.com/acalejos/kino_progress_bar"
+                },
+                {
+                    "name": "KinoYouTube",
+                    "tags": [
+                        "Video"
+                    ],
+                    "url": "https://github.com/acalejos/kino_youtube"
+                },
+                {
+                    "name": "KinoDiff",
+                    "url": "https://github.com/NduatiK/kino_diff"
+                }
+            ]
+        },
+        {
+            "name": "Tools",
+            "content": [
+                {
+                    "name": "Phoenix Playground",
+                    "tags": [
+                        "Dev Tools"
+                    ],
+                    "url": "https://github.com/phoenix-playground/phoenix_playground"
+                },
+                {
+                    "name": "LiveWriter",
+                    "url": "https://github.com/acalejos/livewriter"
+                },
+                {
+                    "name": "KinoBundler",
+                    "url": "https://github.com/livebook-dev/kino-bundler"
+                }
+            ]
+        },
+        {
+            "name": "Education",
+            "content": [
+                {
+                    "name": "Dockyard Academy",
+                    "tags": [],
+                    "url": "https://github.com/DockYard-Academy/curriculum"
+                },
+                {
+                    "name": "Oban Training",
+                    "tags": [
+                        "Oban"
+                    ],
+                    "url": "https://github.com/sorentwo/oban_training"
+                }
+            ]
+        },
+        {
+            "name": "Talks",
+            "content": [
+                {
+                    "name": "Unlocking Livebook's Potential",
+                    "tags": [
+                        "Kino"
+                    ],
+                    "url": "https://speakerdeck.com/acalejos/unlocking-livebooks-potential"
+                },
+                {
+                    "name": "ElixirConf 2022 - Brooklin Myers - Using Livebook to Teach Elixir",
+                    "url": "https://youtu.be/glPx8gcu-ek?si=ql_nd8TIVf87fYxk"
+                },
+                {
+                    "name": "Livebook & Elixir: Where AI, Web & Concurrency Meet • José Valim • YOW! 2023",
+                    "url": "https://youtu.be/pas9WdWIBHs?si=KAIake30mlEpWyVU"
+                },
+                {
+                    "name": "Meta programmable functional notebooks with Livebook by José Valim | Lambda Days 2023",
+                    "url": "https://youtu.be/5Zt5TNqKhcA?si=bcxy0xUR9Uc0fyUw"
+                },
+                {
+                    "name": "Building Livebook Desktop by Wojtek Mach | ElixirConf EU 2023",
+                    "url": "https://youtu.be/Kiw6eWKcQbg?si=w2Rr_J7m9gPPEik3"
+                },
+                {
+                    "name": "ElixirConf 2022 - Stephen Ball - Livebook smart cells are amazing",
+                    "url": "https://youtu.be/Yw_EqX_KAw4?si=LkLKcYjvWFJew-7w"
+                }
+            ]
+        },
+        {
+            "name": "Resources",
+            "content": [
+                {
+                    "name": "notes.club",
+                    "description": "Discover Livebook notebooks",
+                    "url": "https://notes.club/"
+                },
+                {
+                    "name": "KinoSmartCellTemplate",
+                    "tags": [
+                        "Kino",
+                        "Template"
+                    ],
+                    "url": "https://github.com/acalejos/kino_smartcell_template"
+                },
+                {
+                    "name": "Official Livebook YouTube Channel",
+                    "url": "https://www.youtube.com/@livebookdev"
+                }
+            ]
+        }
+    ]
+}
