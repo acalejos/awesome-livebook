@@ -25,7 +25,7 @@ sections =
       entry = Map.put(entry, "section", name) do
     with %URI{host: "github.com", path: p} <- URI.parse(url),
          [owner | [repo | _]] <- String.split(p, "/", trim: true),
-         {:ok, %Req.Response{status: 200, body: body}} <-
+         {:ok, %{status: 200, body: body}} <-
            Req.get(req, path_params: [owner: owner, repo: repo]) do
       entry =
         Map.put(
